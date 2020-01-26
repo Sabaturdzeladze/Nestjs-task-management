@@ -1,0 +1,5 @@
+server:
+  origin: 'front_end_url_for_cors'
+
+db:
+  synchronize: false
